@@ -2,6 +2,8 @@
 
 <img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FCD8F8&random=false&width=535&height=100&lines=Sleep+Eat+Program+Repeat+)](https://git.io/typing-svg)
+
 
 ## ❤ Things I Love
 * Ethical Hacking
