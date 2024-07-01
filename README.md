@@ -3,9 +3,10 @@
 <img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
 
 
-## :computer: Technologies I Love
+## ❤ Things I Love
 * Ethical Hacking
-* Developing
+* Programming
+* Designing
   
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src =
