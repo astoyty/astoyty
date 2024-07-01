@@ -7,7 +7,7 @@
 * Programming
 * Designing
 
-## Message Me For Projects <image src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGM3b2tvaGp3aWdqcWo0eDdxbnE2dWEzanNueGEzM3g3N3lleDM4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oIxOmf1TeKcAJrf3gD/giphy.gif" width="28px" height"28px">
+## Message Me For Projects <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGM3b2tvaGp3aWdqcWo0eDdxbnE2dWEzanNueGEzM3g3N3lleDM4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oIxOmf1TeKcAJrf3gD/giphy.gif" width="28px" height="28px">
   
 ## Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src =
