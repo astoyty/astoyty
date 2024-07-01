@@ -12,5 +12,5 @@
 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
  
  
-<img src="https://discord.c99.nl/widget/theme-5/1252283109072830514.png" width="350">
+<img src="https://discord.c99.nl/widget/theme-4/1252283109072830514.png" width="350">
 <img src="https://api.status.gg/telegram/7147922873?theme%5Bbackground%5D%5Bprimary%5D=ffd8f7&theme%5Bbackground%5D%5Bsecondary%5D=ffd8f7&theme%5Btext%5D%5Bprimary%5D=ff86e7&theme%5Btext%5D%5Bsecondary%5D=ff86e7&theme%5Bseparator%5D=ffb1ef&theme%5Blogo%5D=ff86e7" width="350">
