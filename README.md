@@ -16,4 +16,4 @@
  
 <img src="https://discord.c99.nl/widget/theme-4/781986569477029908.png" width="350">
 
-<img src="https://api.status.gg/telegram/7147922873?theme%5Bbackground%5D%5Bprimary%5D=ffd8f7&theme%5Bbackground%5D%5Bsecondary%5D=ffd8f7&theme%5Btext%5D%5Bprimary%5D=ff86e7&theme%5Btext%5D%5Bsecondary%5D=ff86e7&theme%5Bseparator%5D=ffb1ef&theme%5Blogo%5D=ff86e7" width="350">
+[<img src="https://api.status.gg/telegram/7147922873?theme%5Bbackground%5D%5Bprimary%5D=ffd8f7&theme%5Bbackground%5D%5Bsecondary%5D=ffd8f7&theme%5Btext%5D%5Bprimary%5D=ff86e7&theme%5Btext%5D%5Bsecondary%5D=ff86e7&theme%5Bseparator%5D=ffb1ef&theme%5Blogo%5D=ff86e7" width="350">](https://api.status.gg/telegram/7147922873?theme%5Bbackground%5D%5Bprimary%5D=ffc5f4&theme%5Bbackground%5D%5Bsecondary%5D=ffc5f4&theme%5Btext%5D%5Bprimary%5D=ff64e3&theme%5Btext%5D%5Bsecondary%5D=ff6ae4&theme%5Bseparator%5D=ff64e3&theme%5Blogo%5D=ffc5f4)
